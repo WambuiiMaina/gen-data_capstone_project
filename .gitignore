@@ -1,0 +1,19 @@
+# Virtual environment
+spotify/
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# connections
+spotify/**/*.sql
+
+# System files
+.DS_Store
+Thumbs.db
