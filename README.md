@@ -26,7 +26,7 @@ Understanding these trends can help creators, media companies, and advertisers m
 - Spotify Web API
 
 **Database**
-- SQL (PostgreSQL / SQLite)
+- BigQuery
 
 
 **Data Preparation**
