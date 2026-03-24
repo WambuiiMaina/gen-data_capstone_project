@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 2500,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "Spotifyconnection",
+            "database": "spotify_db",
+            "username": "root",
+            "connectionTimeout": 120
+        }
+    ]
+}
