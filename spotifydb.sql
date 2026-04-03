@@ -13,4 +13,3 @@ CREATE TABLE IF NOT EXISTS Episodes (
     duration INT NOT NULL,
     FOREIGN KEY (show_id) REFERENCES Shows(show_id)
 );
-
